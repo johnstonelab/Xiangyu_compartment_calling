@@ -1,0 +1,14 @@
+name: xiangyu_SJlab_compartment_env
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.4.*
+  - r-optparse
+  - r-data.table
+  - r-readr
+  - r-dplyr
+  - r-stringr
+  - r-matrix
+  - r-strawr
+  - coreutils
+  - gawk
