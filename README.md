@@ -57,6 +57,7 @@ bash /path/to/possum_whole/directory/run_possumm_step2.sh \
 #examplary code
 
 #note, if bedGraphToBigWig is not executable, do chmod +x once.
+
 chmod +x /n/data1/dfci/pathonc/johnstone/lab/xiangyu_compartment_tutorial/git_hub_version/xiangyu_compartment_possum_whole/bedGraphToBigWig
 
 bash /n/data1/dfci/pathonc/johnstone/lab/xiangyu_compartment_tutorial/git_hub_version/xiangyu_compartment_possum_whole/run_possumm_step2.sh \
